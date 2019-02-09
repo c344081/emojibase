@@ -1,4 +1,9 @@
-# 3.3.0
+# 4.0.0
+
+#### 🎉 Release
+
+- Updated to [Emoji 12](https://emojipedia.org/emoji-12.0/) and
+  [Unicode 12](http://unicode.org/versions/Unicode12.0.0/).
 
 # 3.2.0 - 2018-10-20
 
